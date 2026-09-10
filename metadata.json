@@ -1,0 +1,6 @@
+{
+  "name": "Trợ Lý GVCN Lớp 4C - Cô Phạm Thị Hồng Anh",
+  "description": "Ứng dụng trợ lý giáo viên chủ nhiệm Lớp 4C - Trường Tiểu học Lê Hồng Phong - Cô Phạm Thị Hồng Anh: quản lý học sinh, phân tổ 1 đến 6, nhập xuất Excel, điểm danh, nề nếp thi đua, đánh giá học tập 12 môn và báo cáo tổng kết.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
